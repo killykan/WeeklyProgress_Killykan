@@ -1,5 +1,6 @@
 # WeeklyProgress_Killykan
-TODO
+TODO LIST
+
 Week : February 23rd - February 25th
 - [X] Complete the first project: Animal Trading Cards
 
