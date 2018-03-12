@@ -16,5 +16,5 @@ Week : March 5th - March 11th
 
 Week : March 12th - March 18th
 
-- [] Submit my Portfolio project
-- [] Start with JS lecture.
+- [ ] Submit my Portfolio project
+- [ ] Start with JS lecture.
