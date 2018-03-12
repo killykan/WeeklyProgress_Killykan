@@ -12,4 +12,9 @@ Week : February 26th - March 4th
 
 Week : March 5th - March 11th
 
-- [ ] Continue my work on the Portfolio_project;
+- [X] Continue my work on the Portfolio_project;
+
+Week : March 12th - March 18th
+
+- [] Submit my Portfolio project
+- [] Start with JS lecture.
