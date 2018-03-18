@@ -16,5 +16,11 @@ Week : March 5th - March 11th
 
 Week : March 12th - March 18th
 
-- [ ] Submit my Portfolio project
-- [ ] Start with JS lecture.
+- [X] Submit my Portfolio project
+- [X] Start with JS lecture.
+
+Week : March 19th - March 25th
+
+- [ ] Bash shell and Git courses
+- [ ] Create a new repo for my upcoming project
+- [ ] The DOM course
