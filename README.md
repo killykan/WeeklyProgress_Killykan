@@ -21,6 +21,10 @@ Week : March 12th - March 18th
 
 Week : March 19th - March 25th
 
-- [ ] Bash shell and Git courses
-- [ ] Create a new repo for my upcoming project
-- [ ] The DOM course
+- [X] Bash shell and Git courses
+- [X] Create a new repo for my upcoming project
+- [X] The DOM course.
+
+Week : March 26th - April 1st
+
+-[ ] Work on the Memory Game project.
