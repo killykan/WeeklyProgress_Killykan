@@ -27,4 +27,4 @@ Week : March 19th - March 25th
 
 Week : March 26th - April 1st
 
--[ ] Work on the Memory Game project.
+- [ ] Work on the Memory Game project.
