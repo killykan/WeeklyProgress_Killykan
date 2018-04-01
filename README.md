@@ -31,7 +31,7 @@ Week : March 26th - April 1st
 
 Week : April 1st - April 8th
 
-- [ ] Memory Game Project :
-        - [ ] The logic respects game's requirements (Work on JS);
-        - [ ] Set some styling and animations to the elements;
-        - [ ] Make the project responsive for different devices' size.
+       Memory Game Project :
+- [ ] The logic respects game's requirements (Work on JS);
+- [ ] Set some styling and animations to the elements;
+- [ ] Make the project responsive for different devices' size.
