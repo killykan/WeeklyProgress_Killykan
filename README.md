@@ -27,4 +27,11 @@ Week : March 19th - March 25th
 
 Week : March 26th - April 1st
 
-- [ ] Work on the Memory Game project.
+- [X] Work on the Memory Game project.
+
+Week : April 1st - April 8th
+
+- [ ] Memory Game Project :
+        - [ ] The logic respects game's requirements (Work on JS);
+        - [ ] Set some styling and animations to the elements;
+        - [ ] Make the project responsive for different devices' size.
