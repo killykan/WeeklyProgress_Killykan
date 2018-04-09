@@ -39,4 +39,4 @@ Week : April 1st - April 8th
 Week : April 9th - April 15th
 
  - [X] Submit project;
- - [] Lesson 1: Accessibility Overview.
+ - [ ] Lesson 1: Accessibility Overview.
