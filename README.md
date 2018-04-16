@@ -36,7 +36,13 @@ Week : April 1st - April 8th
 - [X] Set some styling and animations to the elements;
 - [X] Make the project responsive for different devices' size.
 
-Week : April 9th - April 15th
+Week : April 9th - April 15th :
 
  - [X] Submit project;
- - [ ] Lesson 1: Accessibility Overview.
+ - [X] Lesson 1: Accessibility Overview.
+ - [X] Object Oriented Programming : functions at runtime, objects in depth and classes.
+ 
+ Week : April 16th - April 22nd :
+ 
+ - [ ] OOP : Closures, object constructor, classes;
+ - [ ] Set environment for the Arcade game clone project, and begin to work with the chrome dev tool one errors.
