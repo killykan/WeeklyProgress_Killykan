@@ -44,5 +44,14 @@ Week : April 9th - April 15th :
  
  Week : April 16th - April 22nd :
  
- - [ ] OOP : Closures, object constructor, classes;
- - [ ] Set environment for the Arcade game clone project, and begin to work with the chrome dev tool one errors.
+ - [X] OOP : Closures, object constructor, classes;
+ - [X] Set environment for the Arcade game clone project, and begin to work with the chrome dev tool one errors.
+ 
+ Week : April 23rd - April 29th :
+ 
+ - [X] Fend project n°4 : establish the logic of the game;
+ 
+ Week : April 30th - May 6th :
+ 
+ - [ ] Finalize project n°4, add styles, and edit the ReadMe file.
+ - [ ] Submit the project.
