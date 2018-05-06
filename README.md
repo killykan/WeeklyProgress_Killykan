@@ -53,5 +53,9 @@ Week : April 9th - April 15th :
  
  Week : April 30th - May 6th :
  
- - [ ] Finalize project n°4, add styles, and edit the ReadMe file.
- - [ ] Submit the project.
+ - [X] Finalize project n°4, add styles, and edit the ReadMe file.
+ - [X] Submit the project.
+ 
+ Week : May 7th - May 13th :
+ 
+ - [ ] Work on web dev tooling : gulp/sass/Jasmine.
