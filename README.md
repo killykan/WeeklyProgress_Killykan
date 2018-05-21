@@ -67,5 +67,5 @@ Week : May 14th - May 20th :
  
 Week : May 21st - May 27th :
 
- -[ ] Es6 new functionnalities;
+ - [] Es6 new functionnalities;
  
