@@ -60,7 +60,12 @@ Week : April 9th - April 15th :
  
  - [X] Work on web dev tooling : gulp/sass/Jasmine.
 
-Week : May 14th - 20th : 
+Week : May 14th - May 20th : 
 
- - [ ] Finalize ans submit fend project 6, working with Jasmine test suite. 
- - [ ] Es6 basics and oop reminder.
+ - [X] Finalize ans submit fend project 6, working with Jasmine test suite. 
+ - [X] Es6 basics and oop reminder.
+ 
+Week : May 21st - May 27th :
+
+ -[ ] Es6 new functionnalities;
+ 
