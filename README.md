@@ -67,5 +67,10 @@ Week : May 14th - May 20th :
  
 Week : May 21st - May 27th :
 
- - [ ] Es6 new functionnalities;
+ - [X] Es6 new functionnalities;
+ 
+Week : May 28th - June 3rd :
+
+ - [ ] Working with es6 Promises - Proxies and generators;
+ - [ ] Part 4 : Front-end applications.
  
