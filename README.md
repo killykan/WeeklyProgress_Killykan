@@ -71,6 +71,10 @@ Week : May 21st - May 27th :
  
 Week : May 28th - June 3rd :
 
- - [ ] Working with es6 Promises - Proxies and generators;
- - [ ] Part 4 : Front-end applications.
+ - [X] Working with es6 Promises - Proxies and generators;
+ - [X] Part 4 : Front-end applications.
+ 
+Week : June 04th - June 10th :
+
+  - [ ] Front-end applications : CatClicker project;
  
