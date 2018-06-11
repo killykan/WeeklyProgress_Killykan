@@ -76,5 +76,10 @@ Week : May 28th - June 3rd :
  
 Week : June 04th - June 10th :
 
-  - [ ] Front-end applications : CatClicker project;
+  - [x] Front-end applications : CatClicker project;
  
+Week : June 11th - June 17th :
+
+  - [ ] MVC pattern;
+  - [ ] Async JS with ajax request, json;
+  - [ ] Using Fetch API / promises with async JS;
