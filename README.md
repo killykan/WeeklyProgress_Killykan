@@ -80,6 +80,11 @@ Week : June 04th - June 10th :
  
 Week : June 11th - June 17th :
 
-  - [ ] MVC pattern;
-  - [ ] Async JS with ajax request, json;
-  - [ ] Using Fetch API / promises with async JS;
+  - [X] MVC pattern;
+  - [X] Async JS with ajax request, json;
+  - [X] Using Fetch API / promises with async JS.
+  
+ Week : June 18th - June 24th :
+ 
+ - [ ] Async JS : AJAX with XHR object / AJAX-Jquery / AJAX - Fetch API
+ - [ ] FEND Frameworks : BACKBONE.
