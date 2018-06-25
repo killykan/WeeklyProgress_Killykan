@@ -86,5 +86,13 @@ Week : June 11th - June 17th :
   
  Week : June 18th - June 24th :
  
- - [ ] Async JS : AJAX with XHR object / AJAX-Jquery / AJAX - Fetch API
- - [ ] FEND Frameworks : BACKBONE.
+   - [x] Async JS : AJAX with XHR object / AJAX-Jquery / AJAX - Fetch API
+   - [x] FEND Frameworks : BACKBONE.
+   
+ Week : June 25th - July 1st :
+ 
+   - [ ] Angular Js;
+   - [ ] Service worker;
+   - [ ] Prepare workspace for the app project.
+ 
+ 
