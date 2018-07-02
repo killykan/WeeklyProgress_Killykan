@@ -91,8 +91,12 @@ Week : June 11th - June 17th :
    
  Week : June 25th - July 1st :
  
-   - [ ] Angular Js;
-   - [ ] Service worker;
-   - [ ] Prepare workspace for the app project.
+   - [x] Angular Js;
+   - [x] Service worker;
+   - [x] Prepare workspace for the app project.
+   
+ Week : July 2nd - July 8th :
+ 
+   - [ ] Restaurant review app : responsivness ans A11y !
  
  
