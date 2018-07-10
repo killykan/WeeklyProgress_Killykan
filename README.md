@@ -97,6 +97,10 @@ Week : June 11th - June 17th :
    
  Week : July 2nd - July 8th :
  
-   - [ ] Restaurant review app : responsivness ans A11y !
+   - [X] Restaurant review app : responsivness ans A11y !
+   
+ Week : July 9th - july 15th :
+ 
+   - [ ] Building with React phase 1 : React installation, Jsx, scaffolding with Create-React-app.
  
  
